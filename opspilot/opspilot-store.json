@@ -1,0 +1,30 @@
+{
+  "products": [
+    {
+      "id": "prod-1790180526234",
+      "sku": "wem-900",
+      "name": "Wireless mouse",
+      "category": "Electronics",
+      "price": 4500,
+      "stock": 15,
+      "reorder_level": 10,
+      "supplier": "apex ",
+      "lastUpdated": "2026-09-23"
+    }
+  ],
+  "customers": [],
+  "reports": [],
+  "purchaseOrder": {
+    "id": "PO-NONE",
+    "created_at": "2026-09-22",
+    "status": "NONE",
+    "total_cost": 0,
+    "supplier_summary": "No pending purchase orders",
+    "items": []
+  },
+  "sales": {
+    "revenue": 0,
+    "orders": 0,
+    "chart": []
+  }
+}
